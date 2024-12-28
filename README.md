@@ -8,6 +8,7 @@
     - [Frontend](#frontend)
     - [Backend](#backend)
     - [Database](#database)
+    - [Screenshots](#screenshots)
 
 ## Configuration and Setup
 
@@ -103,3 +104,11 @@ This project was created using the following technologies.
 #### Database 
 
  - [MongoDB ](https://www.mongodb.com/) - It provides a free cloud service to store MongoDB collections.
+
+#### Screenshots
+![1](./screenshots/Signuo.png)
+![2](./screenshots/Login.png)
+![3](./screenshots/Blog UI Before Login.png)
+![4](./screenshots/Blog UI After Login.png)
+![5](./screenshots/Blog1.png)
+![](./screenshots/Blog2_Edit.png)
